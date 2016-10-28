@@ -1,0 +1,3 @@
+how to active bower
+
+sass --watch C:\xampp\htdocs\adityamahaputrarevolution\third_party\sass\custom.sass:C:\xampp\htdocs\adityamahaputrarevolution\style\custom.min.css --style compressed
